@@ -1,0 +1,5 @@
+br/com/example/ecommerce/KafkaDispatcher.class
+br/com/example/ecommerce/GsonSerializer.class
+br/com/example/ecommerce/GsonDeserializer.class
+br/com/example/ecommerce/ConsumerFunction.class
+br/com/example/ecommerce/KafkaService.class

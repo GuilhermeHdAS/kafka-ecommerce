@@ -1,0 +1,5 @@
+/home/guilherme/IdeaProjects/example/common-kafka/src/main/java/br/com/example/ecommerce/ConsumerFunction.java
+/home/guilherme/IdeaProjects/example/common-kafka/src/main/java/br/com/example/ecommerce/KafkaDispatcher.java
+/home/guilherme/IdeaProjects/example/common-kafka/src/main/java/br/com/example/ecommerce/GsonSerializer.java
+/home/guilherme/IdeaProjects/example/common-kafka/src/main/java/br/com/example/ecommerce/KafkaService.java
+/home/guilherme/IdeaProjects/example/common-kafka/src/main/java/br/com/example/ecommerce/GsonDeserializer.java
